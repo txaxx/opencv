@@ -1,0 +1,10 @@
+﻿  cartoon.cpp
+  ImageUtils_0.7.cpp
+e:\c++\opencv\project\camera\camera\imageutils_0.7.cpp(252): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\opencv\project\camera\camera\imageutils_0.7.cpp(524): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\opencv\project\camera\camera\imageutils_0.7.cpp(613): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\opencv\project\camera\camera\imageutils_0.7.cpp(702): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main_desktop.cpp
+e:\c++\opencv\project\camera\camera\main_desktop.cpp(64): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  Camera.vcxproj -> E:\C++\opencv\project\Camera\x64\Debug\Camera.exe
